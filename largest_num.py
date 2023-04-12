@@ -18,3 +18,5 @@ def user_input():
     else:
       largest = num3 
   st.write('The largest among the given 3 numbers is: ', largest)
+
+user_input()
